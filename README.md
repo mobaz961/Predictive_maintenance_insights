@@ -1,7 +1,8 @@
-## Title: E-commerce Customer Analytics for Increased Sales
+## Title: Predictive Maintenance (Using Machine Learning to Predict Machine Failures)
+
 
 #### Objectives:
-- Predict machine failures using machine learning.
+- Predict machine failures using machine learning to improve operational efficiency.
 
 #### Target Variable: Binary (Machine failure: - 1 for failure, 0 for no failure).
 
